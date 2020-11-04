@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Simon, i'm a senior production engineer since 2007 and aspecially an Active Directory expert.
+
+I'm in :heart: with IT since child, i like :pencil2: code stuff for work or for fun & study.
+
+You can find here the result of the spend time at work or :lock: in my geek cave.
 
 <!--
 **simonsavoca/simonsavoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
