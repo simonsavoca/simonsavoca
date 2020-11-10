@@ -5,6 +5,8 @@ I'm in :heart: with IT since child, i like :pencil2: code stuff for work or for 
 
 You can find here the result of my work, all that time spend at work or :lock: in my geek cave.
 
+<img src="https://img.shields.io/static/v1?label=LinkedIn&message=simonsavoca&color=blue&logo=linkedin" > <img src="https://img.shields.io/static/v1?label=Facebook&message=simon.savoca&color=blue&logo=facebook" > <img src="https://img.shields.io/static/v1?label=Twitter&message=simonsavoca&color=blue&logo=twitter" > <img src="https://img.shields.io/static/v1?label=Github&message=simonsavoca&color=blue&logo=github" > <img src="https://img.shields.io/static/v1?label=Gitlab&message=simonsavoca&color=blue&logo=gitlab" >
+
 <!--
 **simonsavoca/simonsavoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
