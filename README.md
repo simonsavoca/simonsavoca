@@ -18,4 +18,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Skills
+- OS: <img src="https://img.shields.io/static/v1?label=Windows&message=2012&color=blue&logo=Windows" > <img src="https://img.shields.io/static/v1?label=Debian&message=10&color=orange&logo=debian" >
+- Dev language: DOS <img src="https://img.shields.io/static/v1?label=Powershell&message=5.1&color=blue&logo=powershell" >
+- Dev management: <img src="https://img.shields.io/static/v1?label=Git&message=OK&color=green&logo=git" > <img src="https://img.shields.io/static/v1?label=Github&message=OK&color=green&logo=github" > <img src="https://img.shields.io/static/v1?label=GitLab&message=OK&color=green&logo=gitlab" >
+- Automation: <img src="https://img.shields.io/static/v1?label=BMC&message=BladeLogic&color=green&logo=bmcsoftware" >
+- Dev software: <img src="https://img.shields.io/static/v1?label=Github&message=Atom&color=green&logo=atom" > <img src="https://img.shields.io/static/v1?label=Powershell&message=ISE&color=blue&logo=powershell" > <img src="https://img.shields.io/static/v1?label=Node.js&message=Node-Red&color=orange&logo=node-red" >
+
+- Technos: AD/AD FS/AD CA/AD LDS/<img src="https://img.shields.io/static/v1?label=Azure&message=Active Directory&color=blue&logo=microsoftazure" >
+- Tickecting: ServiceNow
+- Web language: html5/XML/PHP
+
+
+
+
+
+
+
+
 -->
